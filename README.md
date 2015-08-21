@@ -11,5 +11,5 @@ iPython Notebooks:
 - [Exploration of New York Subway Data](http://nbviewer.ipython.org/github/timothyylim/NYC-Subway-Analysis/blob/master/Exploration%2520of%2520New%2520York%2520Subway%2520Data%2520.ipynb)
 
 
-Full Source on [Github](https://github.com/timothyylim/NYC-Subway-Analysis) 
+
 
